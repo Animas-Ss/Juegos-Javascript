@@ -22,6 +22,8 @@ body{
     background-color: green;
     border-radius: 200px 0 0 0;
     margin: 0 10px 10px 0;
+    border: 6px solid #333;
+    box-shadow: -8px -8px 15px rgba(0, 0, 0, 1), 8px 8px 25px rgba(255, 255, 255, 0.15), inset 3px 3px 10px rgba(255, 255, 255, 0.1), inset -4px -4px 15px rgba(0, 0, 0, 1) ;
 }
 
 .green-click{
@@ -32,6 +34,8 @@ body{
     background: red;
     border-radius: 0 200px 0 0;
     margin: 0 0 10px 10px;
+    border: 6px solid #333;
+    box-shadow: -8px -8px 15px rgba(0, 0, 0, 1), 8px 8px 25px rgba(255, 255, 255, 0.15), inset 3px 3px 10px rgba(255, 255, 255, 0.1), inset -4px -4px 15px rgba(0, 0, 0, 1) ;
 }
 
 .red-click{
@@ -43,6 +47,8 @@ body{
     background: yellow;
     border-radius: 0 0 0 200px;
     margin: 10px 10px 0 0;
+    border: 6px solid #333;
+    box-shadow: -8px -8px 15px rgba(0, 0, 0, 1), 8px 8px 25px rgba(255, 255, 255, 0.15), inset 3px 3px 10px rgba(255, 255, 255, 0.1), inset -4px -4px 15px rgba(0, 0, 0, 1) ;
 }
 
 .yellow-click{
@@ -54,6 +60,8 @@ body{
     background: blue;
     border-radius: 0 0 200px 0;
     margin: 10px 0 0 10px;
+    border: 6px solid #333;
+    box-shadow: -8px -8px 15px rgba(0, 0, 0, 1), 8px 8px 25px rgba(255, 255, 255, 0.15), inset 3px 3px 10px rgba(255, 255, 255, 0.1), inset -4px -4px 15px rgba(0, 0, 0, 1) ;
 }
 
 .blue-click{
@@ -77,6 +85,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    border: 6px solid #333;
+    box-shadow: -8px -8px 15px rgba(0, 0, 0, 1), 8px 8px 25px rgba(255, 255, 255, 0.15), inset 3px 3px 10px rgba(255, 255, 255, 0.1), inset -4px -4px 15px rgba(0, 0, 0, 1) ;
 }
 
 p{
